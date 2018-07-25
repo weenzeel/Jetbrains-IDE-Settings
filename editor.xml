@@ -5,4 +5,8 @@
     <option name="LINE_SPACING" value="2.0" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
